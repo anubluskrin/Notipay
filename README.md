@@ -2,6 +2,8 @@
 
 Notipay adalah aplikasi web pengingat dan pelacak tagihan (bill reminder) yang membantu pengguna mengelola tagihan bulanan secara terorganisir. Aplikasi ini memungkinkan pengguna mengelompokkan tagihan ke dalam kategori, memantau status pembayaran, serta mendapatkan indikator visual saat tagihan mendekati atau melewati tanggal jatuh tempo.
 
+![Alt text](img1.png)
+
 ## Deskripsi
 
 Notipay dibangun untuk menjawab masalah umum dalam manajemen keuangan pribadi: banyaknya tagihan rutin (kos, kuliah, langganan, utang, dan lain-lain) yang sulit dipantau secara manual. Setiap pengguna memiliki ruang data terpisah — kategori dan tagihan yang dibuat oleh satu akun tidak dapat diakses oleh akun lain. Setiap tagihan dapat ditandai sebagai "Lunas" atau "Belum", dan sistem secara otomatis memberi badge warna berdasarkan urgensi tanggal jatuh tempo, sehingga pengguna dapat langsung mengetahui tagihan mana yang perlu segera dibayar.
